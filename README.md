@@ -6,7 +6,7 @@ This project is a decentralized star registry service that allows users to regis
   * **Truffle v.5.0.8** and **OpenZeppelin v.2.1.3** were used in the project.
   * The ERC-721 Token Name is **"Star Registry Token"**.
   * The ERC-721 Token Symbol is **"SRT"**.
-  * The "Token Address" on the Rinkeby Network is **0x69bD266748afFf40672E90c884B8e1aD03612D47**.
+  * For project evaluation, the token contract was deployed to the Rinkeby Network with Token Address **0x69bD266748afFf40672E90c884B8e1aD03612D47**.
 
 ## Installation
 
