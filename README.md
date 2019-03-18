@@ -27,3 +27,7 @@ To register a star, enter the Star Name and the Star ID in the **Create a Star**
 ## Star lookup
 
 To look up a star, enter the Star ID in the **Look up a Star** section of the front end and click **Look Up a Star**.
+
+## Project Review
+
+The results of the project review are in the file `Project Review.pdf`.
