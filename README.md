@@ -13,6 +13,7 @@ This project is a decentralized star registry service that allows users to regis
 1. Unzip the package to a directory.
 
 If necessary to redeploy the token contract, also do the following:
+
 2. Open the package **package-lock.json** and verify that the dependency `truffle-hdwallet-provider` is installed.
   *  `truffle-hdwallet-provider` is necessary to connect to the Ethereum network when deploying the token contract and can be installed using the command `npm install --save truffle-hdwallet-provider`.
 3. Deploy the token contract to Ethereum's Rinkeby test network by running `truffle migrate --reset --network rinkeby`. Deployment to other networks can be enabled by modifying the configuration file `truffle-config.js` and the contract migration contract accordingly.
