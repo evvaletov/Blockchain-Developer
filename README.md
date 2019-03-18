@@ -32,4 +32,4 @@ To look up a star, enter the Star ID in the **Look up a Star** section of the fr
 
 ## Project Review
 
-The results of the project review are in the file [Project_Review.pdf](Project_Review.pdf)
+The results of the project review can be downloaded from the following link: [Project_Review.pdf](Project_Review.pdf).
